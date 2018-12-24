@@ -55,7 +55,7 @@ To Run Game:
         ** please max command line window to entire screen (important for game visualization tool used) **
     (3) run the following commands:
             - make or make scrabble
-            - ./scrabble 
+            - ./scrabble config.txt
     (4) see below for initialization of game
 
 Initializing the Game:
